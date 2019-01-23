@@ -25,3 +25,8 @@ PdfViewer {
 
 Run `doxygen` inside the project root directory to generate an HTML documentation.
 
+## Build
+```
+qmake
+make
+```
