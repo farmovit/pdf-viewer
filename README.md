@@ -1,4 +1,4 @@
-# ![Icon](img/icon_lres.png) PDF Viewer
+# PDF Viewer
 
 A QML QtQuick 1 component capable of PDF files rendering.
 
